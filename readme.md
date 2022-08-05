@@ -1,5 +1,5 @@
 # SmartContract ERC20 Token
-um projeto de contrato inteligente para Token Criptomoedas .
+um projeto de contrato inteligente para Token Criptomoedas .💢
 Funçoes de contrato: Transaçoes de criptomoeda 💢
 
 ## Tecnologias utilizadas
